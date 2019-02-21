@@ -1,1 +1,1 @@
-script was successful
+script was not successful
